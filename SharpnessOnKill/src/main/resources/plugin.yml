@@ -1,0 +1,4 @@
+name: SharpnessOnKill
+version: '${version}'
+main: com.github.ydal251.sharpnessonkill.SharpnessOnKill
+api-version: '1.18'
