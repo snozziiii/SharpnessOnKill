@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df7cd62f-712e-4c42-91e2-5b357fb3da80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/ydal251/sharpnessonkill/SharpnessOnKillMechanic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/ydal251/sharpnessonkill/SharpnessOnKillMechanicFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/ydal251/sharpnessonkill/SharpnessOnKillMechanicManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/ydal251/sharpnessonkill/SharpnessOnKillMechanicManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/ydal251/sharpnessonkill/SharpnessOnKillMechanicManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,12 +39,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="SharpnessOnKill build" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>

@@ -31,7 +31,7 @@ public class SharpnessOnKillMechanicManager implements Listener {
         if (level < maxlvl && new Random().nextDouble() < chance)
         {
             item.addEnchantment(Enchantment.DAMAGE_ALL, level+1);
-            player.sendMessage("Your Weapon Has Gained a Level of Sharpness");
+            killer.sendPlainMessage("Your Weapon Has Gained a Level of Sharpness");
         }
     }
 }
